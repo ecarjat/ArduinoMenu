@@ -13,8 +13,6 @@ scan a chain of several input streams to provide input
 
   namespace Menu {
 
-    tnamespace Menu {
-
   template<int N>
   class chainStream:public menuIn {
     public:
